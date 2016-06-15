@@ -1,5 +1,4 @@
 /* Copyright (c) 2010-2016 Richard Rodger and other contributors, MIT License */
-'use strict'
 
 // Node API modules
 var Assert = require('assert')
